@@ -17,7 +17,7 @@ The aim of this project is to optimize a topic model to achieve best fit using G
 ![alt text](https://github.com/danishanis/pyLDAvis_Optimized_TopicModeling/blob/main/Images/word_cloud.png)
 
 *Visualization created from pyLDAvis*
-![alt text]()
+![alt text](https://github.com/danishanis/pyLDAvis_Optimized_TopicModeling/blob/main/Images/pyLDAvis.png)
 
 *Topics & Representative Words*
-![alt text]()
+![alt text](https://github.com/danishanis/pyLDAvis_Optimized_TopicModeling/blob/main/Images/topics_%26_words.png)
