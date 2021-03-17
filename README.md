@@ -1,7 +1,7 @@
 # pyLDAvis_Optimized_TopicModeling
 *Building LDA model with Sk-learn and plotting Intertopic Distance Map with pyLDAvis*
 
-**Author: Danish Anis & Dr. Barsha Saha**
+**Authors: Danish Anis & Dr. Barsha Saha**
 
 **Contact: danishanis10@hotmail.com**
 
